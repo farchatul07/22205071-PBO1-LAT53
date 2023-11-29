@@ -7,6 +7,11 @@ package pkg22205071_pbo_lat53;
 /**
  *
  * @author user
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program untuk Menampilkan teks "Saya manusia"
  */
 public class Animal {
 protected boolean vegetarian;
