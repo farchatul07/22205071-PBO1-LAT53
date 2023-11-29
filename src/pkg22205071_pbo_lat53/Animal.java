@@ -11,7 +11,7 @@ package pkg22205071_pbo_lat53;
  Nim               : 22205071
  Prodi             : Teknik Informatika
  Kelas             : PBO1
- Deskripsi Program : Program ini berisi program untuk Menampilkan teks "Saya manusia"
+ Deskripsi Program : untuk menampilkan hasil ANIME
  */
 public class Animal {
 protected boolean vegetarian;
